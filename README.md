@@ -1,6 +1,6 @@
 golangでwasmを動かしてみる
 
-##　前提
+## 前提
 
 wasiで動かす場合、前提としてwasmtimeが導入してあること。
 
@@ -9,7 +9,7 @@ wasiで動かす場合、前提としてwasmtimeが導入してあること。
 https://wasmtime.dev/
 
 
-##　動かし方
+## 動かし方
 
 ### 実行環境にJavaScript
 
